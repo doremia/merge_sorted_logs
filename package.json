@@ -20,7 +20,7 @@
     "bluebird": "^3.5.1",
     "faker": "^4.1.0",
     "fastpriorityqueue": "^0.6.3",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.13"
   },
   "devDependencies": {
     "ava": "^0.23.0"
